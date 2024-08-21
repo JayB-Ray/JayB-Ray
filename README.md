@@ -8,6 +8,7 @@ AI & Machine Learning 🤖: Exploring self-evolving AI and integrating AI with g
 Python Programming 🐍: Building tools, scripts, and educational content.
 
 🔗 Connect with Me
+
 Website: [https://jayb-ray.github.io/JacobRayDigital/] 🌐
 
 Discord: [https://discordapp.com/users/1230738081137692727] 💬
