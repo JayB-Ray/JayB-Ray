@@ -1,15 +1,19 @@
-👋 Hello, I'm Jacob Ray!
-Welcome to my GitHub profile! 🚀 I'm passionate about coding, 3D modeling, and exploring new tech. Here you'll find my projects and contributions related to game development, AI, and Python programming.
+# 👋 Hello, I'm **Jacob Ray**!
+---
 
-🛠️ What I Do
-Game Development 🎮: 
-Working on exciting projects like horror games and platformers.
-AI & Machine Learning 🤖: Exploring self-evolving AI and integrating AI with games.
-3D Modeling 🏗️: Creating models and animations for immersive experiences.
-Python Programming 🐍: Building tools, scripts, and educational content.
+🚀 **Welcome to my GitHub profile!**  
+I'm passionate about **coding**, **3D modeling**, and exploring **new tech**. Here, you'll find my projects and contributions related to **game development**, **AI**, and **Python programming**.
 
-🔗 Connect with Me
+---
 
-Website: [https://jayb-ray.github.io/JacobRayDigital/] 🌐
+## 🛠️ What I Do
+- 🎮 **Game Development**: Crafting immersive horror games and other exciting projects.
+- 🤖 **AI & Machine Learning**: Delving into self-evolving AI and integrating it with gaming experiences.
+- 🏗️ **3D Modeling**: Creating detailed models and animations for a more immersive experience.
+- 🐍 **Python Programming**: Building tools, scripts, and educational content to share with the community.
 
-Discord: [https://discordapp.com/users/1230738081137692727] 💬
+---
+
+## 🔗 Connect with Me
+- 🌐 **Website**: [**Jacob Ray Digital**](https://jayb-ray.github.io/JacobRayDigital/)
+- 💬 **Discord**: [**JayB**](https://discordapp.com/users/1230738081137692727)
