@@ -2,7 +2,7 @@
 ---
 
 🚀 **Welcome to my GitHub profile!**  
-I'm passionate about **coding**, **3D modeling**, and exploring **new tech**. Here, you'll find my projects and contributions related to **game development**, **AI**, and **Python programming**.
+I'm passionate about **coding**, **3D modeling**, and exploring **new tech**. Here, you'll learn more about me.
 
 ---
 
